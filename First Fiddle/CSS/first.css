@@ -1,0 +1,70 @@
+/* nav bar */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.weblogo{
+    width: 65px;
+}
+.navbar{
+    background: #00000082!important;
+}
+.navbar-nav li{
+    padding: 0 10px;
+}
+.navbar-nav li a{
+    color: #fff!important;
+    font-weight: 100;
+    font-size: 17px;
+}
+/* navbar ends */
+.a{
+    padding-top:20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.img123{
+    width: 80%;
+}
+.b{
+    line-height:35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+.c{
+    background: url(https://pn-paul.netlify.app/image/img%20background.jpg);
+    width: 100%;
+    
+}
+.d{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: center;
+    color: white;
+    margin-top: 130px;
+}
+.e{
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+}
+@media(max-width:768px)
+{
+    .img123{
+        width: 100%;
+        margin-top: 20px;
+    }
+}
+.f{
+    font-size: 43px;
+}
